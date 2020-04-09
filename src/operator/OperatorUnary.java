@@ -1,7 +1,7 @@
 package operator;
 
 public class OperatorUnary {
-    public static void main(string[] args) {
+    public static void main(String[] args) {
         int i = 0;
         i++;
         System.out.println(i);
