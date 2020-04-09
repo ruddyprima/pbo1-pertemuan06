@@ -17,7 +17,7 @@ public class Switch2 {
                 System.out.println("Dosen : \"Tapi bisa lah menjawab Ujian?\"");
                         System.out.println("Mahasiswa : \"Hehehe\"");
                    break;
-            case 'C':
+            default:
                 System.out.println("Mahasiswa : \"Ulun Turun Pul Pak ae, Tugas pul jua\"");
                 System.out.println("Dosen : \"Bujur jua kh?\"");
                 System.out.println("Dosen : \"Memeriksa Berkas\"");
