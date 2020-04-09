@@ -10,6 +10,6 @@ public class Percabangan {
         } else {
             System.out.println("Uang cukup, selamat menikmati");
         }
-    }
+
     }
 }
